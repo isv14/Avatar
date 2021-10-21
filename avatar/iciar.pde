@@ -54,5 +54,5 @@ void iciar() {
   ellipse (m*4+m/4, m*4+m/9, m/5, m/5);
 
 
-  noLoop();
+
 }
